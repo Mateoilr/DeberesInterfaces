@@ -1,0 +1,20 @@
+¿Qué es un sistema de diseño en el contexto del desarrollo de productos digitales? [Semana2] 
+A.Una herramienta de diseño gráfico
+B.Un conjunto de reglas para el diseño coherente y eficiente
+C.Un software de gestión de proyectos
+
+ANSWER:B
+
+¿Cuál es uno de los principales beneficios de implementar un sistema de diseño en una organización? [Semana2] 
+A.Mayor complejidad en los diseños
+B.Menor flexibilidad en la personalización de productos
+C.Consistencia en la experiencia del usuario
+
+ANSWER:C
+
+¿Qué componentes suelen incluirse en un sistema de diseño? [Semana2] 
+A.Componentes visuales y de interfaz de usuario
+B.Solo guías de estilo
+C.Únicamente herramientas de prototipado
+
+ANSWER:A
